@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKQypBhrer8Aa8xDzajIrtPYiF1W7hXYR1JK0bM8FOY9zdU0NydAHdKoK6ac/mUCJn45NJ0vBo6I4yi/Zy+GEg==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo\\Projetos\\Kafka\\Produtor\\Produtor\\Produtor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natalia.guimaraes\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\natalia.guimaraes\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\natalia.guimaraes\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
